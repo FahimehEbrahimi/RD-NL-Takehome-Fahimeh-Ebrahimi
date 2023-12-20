@@ -1,0 +1,12 @@
+dependencies:
+  - python=3.10.12  
+
+  - torch==2.1.0 
+  - transformers==4.35.2  
+  - pandas==1.5.3  
+  - numpy==1.23.5  
+  - tqdm==4.66.1
+ 
+ hyper-parameters:
+   - epochs=5 # you can change it while calling trian.py
+   - learning_rate=1e-6 # you can change it while calling trian.py
