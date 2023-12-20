@@ -1,5 +1,5 @@
 # RD-NL-Takehome-Fahimeh-Ebrahimi
-I used Google Colab for this assessment task.change
+I used Google Colab for this assessment task.
 
 model.pt:
 Due to Github file size limit, I had to upload the trained model on My Google Drive, here is the link:
